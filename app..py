@@ -73,8 +73,8 @@ def send_msg(email):
     # Configurações para se conectar ao servidor de email (SMTP)
     host = "smtp.gmail.com"
     port = 587 
-    login = "meudiscord11968699610@gmail.com"
-    senha = "orhi iijl rwyr dndq"  # Senha gerada pelo Google para permitir login seguro
+    login = "<email-test>"
+    senha = "<senha gerda pelo google>"  # Senha gerada pelo Google para permitir login seguro
 
     # Estabelece a conexão com o servidor SMTP
     server = smtplib.SMTP(host, port)
